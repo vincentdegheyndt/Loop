@@ -16,7 +16,7 @@ One survey for one credit
 
 
 
->### Disclaimer : This App is meant as a portfolio app only. It will not work with actual credit cards. if you wish to test it, add credits to your account with a fake credit card number such as 4242 4242 4242 4242. Any expiration Date and CVC will do the trick.
+>Disclaimer : This App is meant as a portfolio app only. It will not work with actual credit cards. if you wish to test it, add credits to your account with a fake credit card number such as 4242 4242 4242 4242. Any expiration Date and CVC will do the trick.
 
 > First loading may take a few seconds since the app is deployed on Heroku's free tier
 
