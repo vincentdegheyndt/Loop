@@ -21,8 +21,11 @@ One survey for one credit
 > First loading may take a few seconds since the app is deployed on Heroku's free tier
 
 
-#### This app uses NodeJs, React, redux, express and mongoDb.
-#### It was coded following [this course](https://www.udemy.com/course/node-with-react-fullstack-web-development/) on Udemy by [Stephen Grider](https://www.udemy.com/course/node-with-react-fullstack-web-development/#instructor-1). I later customized the front-end and added a few functionalities (inverse survey list, survey graph, delete button for each survey, sub menu for navigating through the app and general color scheme)
+This app uses NodeJs, React, redux, express and mongoDb.
+
+This project was coded following [this course](https://www.udemy.com/course/node-with-react-fullstack-web-development/) on Udemy by [Stephen Grider](https://www.udemy.com/course/node-with-react-fullstack-web-development/#instructor-1). 
+
+I later customized the front-end and added a few functionalities (inverse survey list, survey graph, delete button for each survey, sub menu for navigating through the app and general color scheme)
 
 
 
